@@ -55,3 +55,5 @@ set_target_properties(mavlinkGUI PROPERTIES
 if(QT_VERSION_MAJOR EQUAL 6)
     qt_finalize_executable(mavlinkGUI)
 endif()
+
+add_subdirectory(lib)
