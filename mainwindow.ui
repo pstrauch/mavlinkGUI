@@ -49,14 +49,14 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton_4">
+       <widget class="QPushButton" name="pB_takeoff">
         <property name="text">
          <string>Takeoff</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton_5">
+       <widget class="QPushButton" name="pB_land">
         <property name="text">
          <string>Land</string>
         </property>
@@ -82,21 +82,21 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton">
+       <widget class="QPushButton" name="pB_arm">
         <property name="text">
          <string>Arm</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton_2">
+       <widget class="QPushButton" name="pB_disarm">
         <property name="text">
          <string>Disarm</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton_3">
+       <widget class="QPushButton" name="pB_reboot">
         <property name="text">
          <string>Reboot</string>
         </property>
