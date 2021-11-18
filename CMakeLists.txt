@@ -58,3 +58,5 @@ if(QT_VERSION_MAJOR EQUAL 6)
 endif()
 
 add_subdirectory(lib)
+
+target_link_libraries(mavlinkGUI PRIVATE comm_lib)
